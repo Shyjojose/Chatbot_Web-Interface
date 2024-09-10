@@ -1,4 +1,8 @@
 # Chatbot_Web-Interface<br />
+Set up your back-end server<br />
+Integrate your chatbot into your Flask server<br />
+Communicate with the back-end using a web page<br />
+<br />
 python3.11 -m pip install flask<br />
 python3.11 -m pip install flask_cors<br />
 python3.11 -m pip install transformers torch<br />
